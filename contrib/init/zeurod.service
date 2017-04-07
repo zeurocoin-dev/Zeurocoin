@@ -1,0 +1,22 @@
+[Unit]
+Description=Aspire's distributed currency daemon
+After=network.target
+
+[Service]
+User=zeuro
+Group=zeuro
+
+Type=forking
+PIDFile=/var/lib/zeurod/zeurod.pid
+ExecStart=/usr/bin/zeurod -daemon -pid=/var/lib/zeurod/zeurod.pid \
+-conf=/etc/zeuro/zeuro.conf -datadir=/var/lib/zeurod -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
