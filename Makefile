@@ -259,7 +259,7 @@ CLIENT_VERSION_REVISION = 0
 COMPARISON_TOOL_REORG_TESTS = 0
 COPYRIGHT_YEAR = 2015
 CPP = gcc -E
-CPPFLAGS =  -DBOOST_SPIRIT_THREADSAFE -DHAVE_BUILD_INFO -D__STDC_FORMAT_MACROS  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2
+CPPFLAGS = -I/home/coinbitex/Zeurocoin/db4/include/ -DBOOST_SPIRIT_THREADSAFE -DHAVE_BUILD_INFO -D__STDC_FORMAT_MACROS  -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2
 CRYPTO_CFLAGS =  
 CRYPTO_LIBS = -lcrypto  
 CXX = g++
@@ -294,7 +294,7 @@ JAVA =
 JAVA_COMPARISON_TOOL = 
 LCOV = 
 LD = /usr/bin/ld -m elf_x86_64
-LDFLAGS =   -Wl,-z,relro -Wl,-z,now -pie
+LDFLAGS = -L/home/coinbitex/Zeurocoin/db4/lib/  -Wl,-z,relro -Wl,-z,now -pie
 LEVELDB_CPPFLAGS = 
 LEVELDB_TARGET_FLAGS = 
 LIBLEVELDB = 
@@ -425,7 +425,7 @@ mandir = ${datarootdir}/man
 mkdir_p = $(MKDIR_P)
 oldincludedir = /usr/include
 pdfdir = ${docdir}
-prefix = /
+prefix = /usr/local
 program_transform_name = s,x,x,
 psdir = ${docdir}
 sbindir = ${exec_prefix}/sbin
