@@ -20,13 +20,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Aspire"
-            VALUE "FileDescription",    "Aspire Core (OSS GUI client for Aspire)"
+            VALUE "FileDescription",    "Zeuro Core (OSS GUI client for Aspire)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "zeuro-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "zeuro-qt.exe"
-            VALUE "ProductName",        "Aspire Core"
+            VALUE "ProductName",        "Zeuro Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

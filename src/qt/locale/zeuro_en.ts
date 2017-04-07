@@ -296,8 +296,8 @@
     <message>
         <location filename="../bitcoingui.cpp" line="+108"/>
         <location line="+752"/>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <location line="-743"/>
@@ -361,13 +361,13 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Aspire Core</source>
-        <translation>&amp;About Aspire Core</translation>
+        <source>&amp;About Zeuro Core</source>
+        <translation>&amp;About Zeuro Core</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Aspire Core</source>
-        <translation>Show information about Aspire Core</translation>
+        <source>Show information about Zeuro Core</source>
+        <translation>Show information about Zeuro Core</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -572,8 +572,8 @@
     </message>
     <message>
         <location line="+196"/>
-        <source>Aspire Core client</source>
-        <translation>Aspire Core client</translation>
+        <source>Zeuro Core client</source>
+        <translation>Zeuro Core client</translation>
     </message>
     <message numerus="yes">
         <location line="+182"/>
@@ -587,8 +587,8 @@
     </message>
     <message>
         <location line="-407"/>
-        <source>Show the Aspire Core help message to get a list with possible Aspire command-line options</source>
-        <translation>Show the Aspire Core help message to get a list with possible Aspire command-line options</translation>
+        <source>Show the Zeuro Core help message to get a list with possible Aspire command-line options</source>
+        <translation>Show the Zeuro Core help message to get a list with possible Aspire command-line options</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -1246,8 +1246,8 @@ Address: %4
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+32"/>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1262,8 +1262,8 @@ Address: %4
     </message>
     <message>
         <location line="+5"/>
-        <source>About Aspire Core</source>
-        <translation>About Aspire Core</translation>
+        <source>About Zeuro Core</source>
+        <translation>About Zeuro Core</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1320,18 +1320,18 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Aspire Core.</source>
-        <translation>Welcome to Aspire Core.</translation>
+        <source>Welcome to Zeuro Core.</source>
+        <translation>Welcome to Zeuro Core.</translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Aspire Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Aspire Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zeuro Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Zeuro Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Aspire Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Aspire Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Zeuro Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zeuro Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1345,8 +1345,8 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3303,8 +3303,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+43"/>
-        <source>Aspire Core is shutting down...</source>
-        <translation>Aspire Core is shutting down...</translation>
+        <source>Zeuro Core is shutting down...</source>
+        <translation>Zeuro Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3498,8 +3498,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3513,8 +3513,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>The Aspire Core developers</source>
-        <translation>The Aspire Core developers</translation>
+        <source>The Zeuro Core developers</source>
+        <translation>The Zeuro Core developers</translation>
     </message>
     <message>
         <location filename="../networkstyle.cpp" line="+19"/>
@@ -4250,8 +4250,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cannot obtain a lock on data directory %s. Aspire Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Aspire Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zeuro Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Zeuro Core is probably already running.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -4320,8 +4320,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
     </message>
     <message>
         <location line="+20"/>
-        <source>Unable to bind to %s on this computer. Aspire Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Aspire Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Zeuro Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Zeuro Core is probably already running.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4770,8 +4770,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Aspire Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+6"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aspire Core will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aspire Core will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Zeuro Core will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Zeuro Core will not work properly.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -4837,8 +4837,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Aspire Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2014-%i The Aspire Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Aspire Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Zeuro Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Zeuro Core Developers</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4877,8 +4877,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Aspire Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+6"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aspire Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Aspire Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zeuro Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Zeuro Core</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -4967,8 +4967,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Aspire Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Aspire Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Aspire Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Zeuro Core is shutting down.</source>
+        <translation>Initialization sanity check failed. Zeuro Core is shutting down.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5282,8 +5282,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Aspire Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+9"/>
-        <source>Wallet needed to be rewritten: restart Aspire Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Aspire Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart Zeuro Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart Zeuro Core to complete</translation>
     </message>
     <message>
         <location line="+5"/>

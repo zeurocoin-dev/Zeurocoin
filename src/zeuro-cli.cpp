@@ -68,10 +68,10 @@ static bool AppInitRPC(int argc, char* argv[])
     //
     ParseParameters(argc, argv);
     if (argc<2 || mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("Aspire Core RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("Zeuro Core RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                  "  zeuro-cli [options] <command> [params]  " + _("Send command to Aspire Core") + "\n" +
+                  "  zeuro-cli [options] <command> [params]  " + _("Send command to Zeuro Core") + "\n" +
                   "  zeuro-cli [options] help                " + _("List commands") + "\n" +
                   "  zeuro-cli [options] help <command>      " + _("Get help for a command") + "\n";
 

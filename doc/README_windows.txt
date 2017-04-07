@@ -1,4 +1,4 @@
-Aspire Core 0.12.0
+Zeuro Core 0.12.0
 =====================
 
 Intro
@@ -13,7 +13,7 @@ Setup
 -----
 Unpack the files into a directory and run zeuro-qt.exe.
 
-Aspire Core is the original Aspire client and it builds the backbone of the network.
+Zeuro Core is the original Aspire client and it builds the backbone of the network.
 However, it downloads and stores the entire history of Aspire transactions;
 depending on the speed of your computer and network connection, the synchronization
 process can take anywhere from a few hours to a day or more.

@@ -272,10 +272,10 @@
 #define PACKAGE_BUGREPORT "info@aspirecoin.io"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "Aspire Core"
+#define PACKAGE_NAME "Zeuro Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Aspire Core 1.3.0"
+#define PACKAGE_STRING "Zeuro Core 1.3.0"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "aspire"

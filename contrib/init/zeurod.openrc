@@ -16,7 +16,7 @@ BITCOIND_USER=${BITCOIND_USER:-zeuro}
 BITCOIND_GROUP=${BITCOIND_GROUP:-zeuro}
 BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/zeurod}
 
-name="Aspire Core Daemon"
+name="Zeuro Core Daemon"
 description="Aspire crypto-currency p2p network daemon"
 
 command="/usr/bin/zeurod"

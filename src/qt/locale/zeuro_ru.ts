@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -283,12 +283,12 @@
         <translation>Закрыть приложение</translation>
     </message>
     <message>
-        <source>&amp;About Aspire Core</source>
-        <translation>О &amp;Aspire Core</translation>
+        <source>&amp;About Zeuro Core</source>
+        <translation>О &amp;Zeuro Core</translation>
     </message>
     <message>
-        <source>Show information about Aspire Core</source>
-        <translation>Показать информацию о Aspire Core</translation>
+        <source>Show information about Zeuro Core</source>
+        <translation>Показать информацию о Zeuro Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Параметры командной строки</translation>
     </message>
     <message>
-        <source>Aspire Core client</source>
-        <translation>Клиент Aspire Core</translation>
+        <source>Zeuro Core client</source>
+        <translation>Клиент Zeuro Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Синхронизация дополнительных данных: %p%</translation>
     </message>
     <message>
-        <source>Show the Aspire Core help message to get a list with possible Aspire command-line options</source>
-        <translation>Показать помощь о Aspire Core со списком возможных параметров командной строки</translation>
+        <source>Show the Zeuro Core help message to get a list with possible Aspire command-line options</source>
+        <translation>Показать помощь о Zeuro Core со списком возможных параметров командной строки</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -989,8 +989,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Address: %4
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About Aspire Core</source>
-        <translation>О Aspire Core</translation>
+        <source>About Zeuro Core</source>
+        <translation>О Zeuro Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,16 +1048,16 @@ Address: %4
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to Aspire Core.</source>
-        <translation>Добро пожаловать в Aspire Core.</translation>
+        <source>Welcome to Zeuro Core.</source>
+        <translation>Добро пожаловать в Zeuro Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Aspire Core will store its data.</source>
-        <translation>Так как вы впервые запустили программу, вы можете выбрать, где Aspire Core будет хранить данные.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zeuro Core will store its data.</source>
+        <translation>Так как вы впервые запустили программу, вы можете выбрать, где Zeuro Core будет хранить данные.</translation>
     </message>
     <message>
-        <source>Aspire Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Aspire Core скачает и сохранит копию цепочки блоков. Как минимум %1ГБ данных будет храниться в этом каталоге и размер данных будет со временем расти. В этом же каталоге будет сохранён кошелёк.</translation>
+        <source>Zeuro Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zeuro Core скачает и сохранит копию цепочки блоков. Как минимум %1ГБ данных будет храниться в этом каталоге и размер данных будет со временем расти. В этом же каталоге будет сохранён кошелёк.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1068,8 +1068,8 @@ Address: %4
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2586,8 +2586,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Aspire Core is shutting down...</source>
-        <translation>Aspire Core выключается...</translation>
+        <source>Zeuro Core is shutting down...</source>
+        <translation>Zeuro Core выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2736,8 +2736,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2748,8 +2748,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Разработчики Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Aspire Core developers</source>
-        <translation>Разработчики Aspire Core</translation>
+        <source>The Zeuro Core developers</source>
+        <translation>Разработчики Zeuro Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3326,8 +3326,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Привязаться к указанному адресу и всегда прослушивать только его. Используйте [хост]:порт для IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Aspire Core is probably already running.</source>
-        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, Aspire Core уже запущен.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zeuro Core is probably already running.</source>
+        <translation>Не удалось установить блокировку на каталог данных %s. Возможно, Zeuro Core уже запущен.</translation>
     </message>
     <message>
         <source>Nitrosend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3382,8 +3382,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Это пре-релизная тестовая сборка - используйте на свой страх и риск - не используйте для добычи или торговых приложений</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Aspire Core is probably already running.</source>
-        <translation>Не удалось привязаться к %s на этом компьютере. Возможно, Aspire Core уже запущен.</translation>
+        <source>Unable to bind to %s on this computer. Zeuro Core is probably already running.</source>
+        <translation>Не удалось привязаться к %s на этом компьютере. Возможно, Zeuro Core уже запущен.</translation>
     </message>
     <message>
         <source>Unable to locate enough Nitrosend denominated funds for this transaction.</source>
@@ -3746,8 +3746,8 @@ rpcpassword=%s
         <translation>Внимание: установлено очень большое значение -paytxfee! Комиссия такого размера может быть уплачена при проведении одельной транзакции.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Aspire Core will not work properly.</source>
-        <translation>Внимание: пожалуйста, убедитесь что дата и время на Вашем компьютере выставлены правильно! Aspire Core не сможет работать корректно, если часы настроены неверно.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zeuro Core will not work properly.</source>
+        <translation>Внимание: пожалуйста, убедитесь что дата и время на Вашем компьютере выставлены правильно! Zeuro Core не сможет работать корректно, если часы настроены неверно.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3800,8 +3800,8 @@ rpcpassword=%s
         <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Aspire Core Developers</source>
-        <translation>Copyright (C) 2014-%i The Aspire Core Developers</translation>
+        <source>Copyright (C) 2014-%i The Zeuro Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Zeuro Core Developers</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3832,8 +3832,8 @@ rpcpassword=%s
         <translation>Ошибка соединения с мастернодой.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aspire Core</source>
-        <translation>Ошибка загрузки wallet.dat: кошелёк требует более новой версии Aspire Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zeuro Core</source>
+        <translation>Ошибка загрузки wallet.dat: кошелёк требует более новой версии Zeuro Core</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3904,8 +3904,8 @@ rpcpassword=%s
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Aspire Core is shutting down.</source>
-        <translation>Проверка на непротиворечивость закончилась неудачно. Aspire Core выключается.</translation>
+        <source>Initialization sanity check failed. Zeuro Core is shutting down.</source>
+        <translation>Проверка на непротиворечивость закончилась неудачно. Zeuro Core выключается.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4156,8 +4156,8 @@ rpcpassword=%s
         <translation>Использовать UPnP для проброса порта (по умолчанию: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Aspire Core to complete</source>
-        <translation>Необходимо перезаписать кошелёк: перезапустите Aspire Core для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart Zeuro Core to complete</source>
+        <translation>Необходимо перезаписать кошелёк: перезапустите Zeuro Core для завершения операции</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

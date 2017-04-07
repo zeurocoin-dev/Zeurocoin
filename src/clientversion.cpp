@@ -13,7 +13,7 @@
  * for both zeurod and zeuro-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Aspire Core");
+const std::string CLIENT_NAME("Zeuro Core");
 
 /**
  * Client version number

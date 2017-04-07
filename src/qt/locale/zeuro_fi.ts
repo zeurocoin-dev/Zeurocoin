@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -283,12 +283,12 @@
         <translation>Sulje ohjelma</translation>
     </message>
     <message>
-        <source>&amp;About Aspire Core</source>
-        <translation>Tietoja &amp;Aspire Core:sta</translation>
+        <source>&amp;About Zeuro Core</source>
+        <translation>Tietoja &amp;Zeuro Core:sta</translation>
     </message>
     <message>
-        <source>Show information about Aspire Core</source>
-        <translation>Näytä tietoja Aspire Core:sta</translation>
+        <source>Show information about Zeuro Core</source>
+        <translation>Näytä tietoja Zeuro Core:sta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Aspire Core client</source>
-        <translation>Aspire Core asiakasohjelma</translation>
+        <source>Zeuro Core client</source>
+        <translation>Zeuro Core asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Synkronoidaan lisätietoja: %p%</translation>
     </message>
     <message>
-        <source>Show the Aspire Core help message to get a list with possible Aspire command-line options</source>
-        <translation>Näytä Aspire Core ohjelista komentorivin valinnoista</translation>
+        <source>Show the Zeuro Core help message to get a list with possible Aspire command-line options</source>
+        <translation>Näytä Zeuro Core ohjelista komentorivin valinnoista</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -989,8 +989,8 @@ Osoite: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Osoite: %4
         <translation>(%1-bittinen)</translation>
     </message>
     <message>
-        <source>About Aspire Core</source>
-        <translation>Tietoja Aspire Core:sta</translation>
+        <source>About Zeuro Core</source>
+        <translation>Tietoja Zeuro Core:sta</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,17 +1048,17 @@ Osoite: %4
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Aspire Core.</source>
-        <translation>Aspire Core - Tervetuloa.</translation>
+        <source>Welcome to Zeuro Core.</source>
+        <translation>Zeuro Core - Tervetuloa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Aspire Core will store its data.</source>
-        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne Aspire Core tallettaa datansa.
+        <source>As this is the first time the program is launched, you can choose where Zeuro Core will store its data.</source>
+        <translation>Koska tämä on ensimmäinen kerta kun ohjelma käynnistetään, voit valita minne Zeuro Core tallettaa datansa.
 Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd levyltä, ohjaa talletettava data eri levyasemalle turvalliseen paikkaan.</translation>
     </message>
     <message>
-        <source>Aspire Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Aspire Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
+        <source>Zeuro Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zeuro Core lataa ja tallettaa kopion lohkoketjusta. Vähintään %1GB dataa talletetaan tähän hakemistoon, ja se myös kasvaa ajan myötä. Myös lompakko talletetaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1069,8 +1069,8 @@ Varoitus: Jos käytät käyttöjärjestelmää (Live os) suoraan usb, dvd tai cd
         <translation>Määritä oma hakemisto:</translation>
     </message>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2591,8 +2591,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Aspire Core is shutting down...</source>
-        <translation>Aspire Core sulkeutuu...</translation>
+        <source>Zeuro Core is shutting down...</source>
+        <translation>Zeuro Core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2741,8 +2741,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2753,8 +2753,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Bitcoin Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Aspire Core developers</source>
-        <translation>Aspire Core kehittäjät</translation>
+        <source>The Zeuro Core developers</source>
+        <translation>Zeuro Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3331,8 +3331,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Kytkeydy annettuun osoitteeseen ja pidä linja aina auki. Käytä [host]:port merkintätapaa IPv6:lle.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Aspire Core is probably already running.</source>
-        <translation>Ei voida lukita data hakemistoa %s. Aspire Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zeuro Core is probably already running.</source>
+        <translation>Ei voida lukita data hakemistoa %s. Zeuro Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Nitrosend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3387,8 +3387,8 @@ Näillä toiminnoilla voit korjata korruptoituneen lohkoketjun tai puuttuvat/van
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla vastuulla - Älä käytä louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Aspire Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Aspire Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Zeuro Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Zeuro Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Unable to locate enough Nitrosend denominated funds for this transaction.</source>
@@ -3753,7 +3753,7 @@ esimerkiksi: alertnotify=echo %%s | mail -s "Aspire Hälytys" admin@foo.com
         <translation>Varoitus: -maxtxfee on asetettu erittäin korkeaksi! Näin isot siirtomaksut voitaisiin maksaa yhdessä siirtotapahtumassa.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Aspire Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zeuro Core will not work properly.</source>
         <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat oikein! Aspire ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
@@ -3807,8 +3807,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "Aspire Hälytys" admin@foo.com
         <translation>Copyright (C) 2009-%i Bitcoin Core Kehittäjät</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Aspire Core Developers</source>
-        <translation>Copyright (C) 2014-%i Aspire Core Kehittäjät</translation>
+        <source>Copyright (C) 2014-%i The Zeuro Core Developers</source>
+        <translation>Copyright (C) 2014-%i Zeuro Core Kehittäjät</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3839,8 +3839,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "Aspire Hälytys" admin@foo.com
         <translation>Virhe masternode:en kytkeytymisessä.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aspire Core</source>
-        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version Aspire Core:sta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zeuro Core</source>
+        <translation>Virhe ladattaessa wallet.dat: Lompakko vaatii uudemman version Zeuro Core:sta</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>
@@ -3911,8 +3911,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "Aspire Hälytys" admin@foo.com
         <translation>Tietoa</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Aspire Core is shutting down.</source>
-        <translation>Alkuperäisyyden tarkistus epäonnistui. Aspire Core sulkeutuu.</translation>
+        <source>Initialization sanity check failed. Zeuro Core is shutting down.</source>
+        <translation>Alkuperäisyyden tarkistus epäonnistui. Zeuro Core sulkeutuu.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4163,8 +4163,8 @@ esimerkiksi: alertnotify=echo %%s | mail -s "Aspire Hälytys" admin@foo.com
         <translation>Käytä UPnP:tä kuunneltavan portin kartoitukseen (oletus: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Aspire Core to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Aspire Core uudestaan viimeistelyä varten</translation>
+        <source>Wallet needed to be rewritten: restart Zeuro Core to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Zeuro Core uudestaan viimeistelyä varten</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

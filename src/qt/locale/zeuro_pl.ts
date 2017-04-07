@@ -231,8 +231,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -283,12 +283,12 @@
         <translation>Zamknij program</translation>
     </message>
     <message>
-        <source>&amp;About Aspire Core</source>
-        <translation>&amp;O Aspire Core</translation>
+        <source>&amp;About Zeuro Core</source>
+        <translation>&amp;O Zeuro Core</translation>
     </message>
     <message>
-        <source>Show information about Aspire Core</source>
-        <translation>Pokaż informacje o Aspire Core</translation>
+        <source>Show information about Zeuro Core</source>
+        <translation>Pokaż informacje o Zeuro Core</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -451,8 +451,8 @@
         <translation>&amp;Opcje konsoli</translation>
     </message>
     <message>
-        <source>Aspire Core client</source>
-        <translation>Klient Aspire Core</translation>
+        <source>Zeuro Core client</source>
+        <translation>Klient Zeuro Core</translation>
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
@@ -463,8 +463,8 @@
         <translation>Synchronizuję dodatkowe dane: %p%</translation>
     </message>
     <message>
-        <source>Show the Aspire Core help message to get a list with possible Aspire command-line options</source>
-        <translation>Pokaż wiadomość pomocy Aspire Core aby otrzymać listę z dostępnymi opcjami linii komend.</translation>
+        <source>Show the Zeuro Core help message to get a list with possible Aspire command-line options</source>
+        <translation>Pokaż wiadomość pomocy Zeuro Core aby otrzymać listę z dostępnymi opcjami linii komend.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -989,8 +989,8 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -1001,8 +1001,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Aspire Core</source>
-        <translation>Informacje o Aspire Core</translation>
+        <source>About Zeuro Core</source>
+        <translation>Informacje o Zeuro Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1048,16 +1048,16 @@ Adres: %4
         <translation>Witaj</translation>
     </message>
     <message>
-        <source>Welcome to Aspire Core.</source>
-        <translation>Witaj w Aspire Core</translation>
+        <source>Welcome to Zeuro Core.</source>
+        <translation>Witaj w Zeuro Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Aspire Core will store its data.</source>
-        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie Aspire Core będzie przechowywał dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zeuro Core will store its data.</source>
+        <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie Zeuro Core będzie przechowywał dane.</translation>
     </message>
     <message>
-        <source>Aspire Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Aspire Core ściągnie i przechowa  kopię blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
+        <source>Zeuro Core will download and store a copy of the Aspire block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zeuro Core ściągnie i przechowa  kopię blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1068,8 +1068,8 @@ Adres: %4
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1264,7 +1264,7 @@ Adres: %4
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/projects/p/zeuro/</source>
-        <translation>Aspire Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
+        <translation>Zeuro Core nie został przetłumaczony na twój język? Tłumaczenie jest niepełne lub niepoprawne? Możesz pomóc nam tłumaczyć tutaj:
 https://www.transifex.com/projects/p/zeuro/</translation>
     </message>
     <message>
@@ -2586,8 +2586,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Aspire Core is shutting down...</source>
-        <translation>Trwa zamykanie Aspire Core</translation>
+        <source>Zeuro Core is shutting down...</source>
+        <translation>Trwa zamykanie Zeuro Core</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2736,8 +2736,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Aspire Core</source>
-        <translation>Aspire Core</translation>
+        <source>Zeuro Core</source>
+        <translation>Zeuro Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2748,8 +2748,8 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Deweloperzy Bitcoin Core</translation>
     </message>
     <message>
-        <source>The Aspire Core developers</source>
-        <translation>Deweloperzy Aspire Core</translation>
+        <source>The Zeuro Core developers</source>
+        <translation>Deweloperzy Zeuro Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3326,7 +3326,7 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Związany z danym adresem oraz zawsze prowadzący na nim nasłuch.  Użyj [host]:oznaczenie dla IPv6</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Aspire Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Zeuro Core is probably already running.</source>
         <translation>Nie można zablokować katalogu danych %s. Prawdopodobnie Aspire jest już uruchomiony. </translation>
     </message>
     <message>
@@ -3382,7 +3382,7 @@ https://www.transifex.com/projects/p/zeuro/</translation>
         <translation>Ta wersja nie jest jeszcze gotowa na oficjalne wydanie - używaj jej na własne ryzyko - nie używaj tej wersji do kopania monet lub do świadczenia usług komercyjnych.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Aspire Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Zeuro Core is probably already running.</source>
         <translation>Niezdolny do związania z %s na tym komputerze. Prawdopodobnie Aspire jest już uruchomiony. </translation>
     </message>
     <message>
@@ -3745,7 +3745,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Uwaga: -maxtxfee jest bardzo wysoka! Tak duże opłaty mogą być uiszczone przy wysłaniu jednej transakcji.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Aspire Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Zeuro Core will not work properly.</source>
         <translation>Uwaga: Proszę sprawdzić czy data i czas na twoim komputerze są poprawne! Jeśli twój zegar nie pokazuje prawidłowej godziny to Aspire może nie działać poprawidłowo.</translation>
     </message>
     <message>
@@ -3799,7 +3799,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Prawo autorskie (c) 2009-%i deweloperzy Bitcoin</translation>
     </message>
     <message>
-        <source>Copyright (C) 2014-%i The Aspire Core Developers</source>
+        <source>Copyright (C) 2014-%i The Zeuro Core Developers</source>
         <translation>Prawa autorskie (C) 2014-%i deweloperzy Aspire</translation>
     </message>
     <message>
@@ -3831,7 +3831,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Błąd w połączeniu z Masternodem.</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aspire Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zeuro Core</source>
         <translation>Błą wczytywania wallet.dat: Portfel wymaga nowszej wersji Aspire</translation>
     </message>
     <message>
@@ -3903,8 +3903,8 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Informacja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Aspire Core is shutting down.</source>
-        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie Aspire Core</translation>
+        <source>Initialization sanity check failed. Zeuro Core is shutting down.</source>
+        <translation>Inicjalizacja kontroli poprawności nie powiodła się. Trwa zamykanie Zeuro Core</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4155,8 +4155,8 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
         <translation>Użyj UPnP aby zmapować port nasłuchu (domyślnie: %u)</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Aspire Core to complete</source>
-        <translation>Portfel potrzebuje być przepisany: uruchom ponownie Aspire Core aby zakończyć.</translation>
+        <source>Wallet needed to be rewritten: restart Zeuro Core to complete</source>
+        <translation>Portfel potrzebuje być przepisany: uruchom ponownie Zeuro Core aby zakończyć.</translation>
     </message>
     <message>
         <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>

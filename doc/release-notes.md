@@ -1,10 +1,10 @@
-Aspire Core 0.12
+Zeuro Core 0.12
 ==================
 
-Aspire Core tree 0.12.x release notes can be found here:
+Zeuro Core tree 0.12.x release notes can be found here:
 - [v0.12.0](release-notes/zeuro/release-notes-0.12.0.md)
 
-Aspire Core tree 0.12.x is a fork of Bitcoin Core tree 0.10.2
+Zeuro Core tree 0.12.x is a fork of Bitcoin Core tree 0.10.2
 
 
 
@@ -22,7 +22,7 @@ the 0.8.x tree and was first released on Mar/13/2014.
 Darkcoin tree 0.10.x used to be the closed source implementation of Nitrosend
 which was released open source on Sep/25/2014.
 
-Aspire Core tree 0.11.x was a fork of Bitcoin Core tree 0.9, Darkcoin was rebranded
+Zeuro Core tree 0.11.x was a fork of Bitcoin Core tree 0.9, Darkcoin was rebranded
 to Aspire.
 
 These release are considered obsolete. Old changelogs can be found here:
